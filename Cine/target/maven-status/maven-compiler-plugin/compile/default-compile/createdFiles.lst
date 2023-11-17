@@ -1,0 +1,8 @@
+com\mycompany\cine\view\AgregarPelicula$1.class
+com\mycompany\cine\controller\ConectorDB.class
+com\mycompany\cine\controller\CineController.class
+com\mycompany\cine\modell\PeliculaDTO.class
+com\mycompany\cine\view\AgregarPelicula.class
+com\mycompany\cine\Cine.class
+com\mycompany\cine\view\AgregarPelicula$2.class
+com\mycompany\cine\modell\PeliculaDAO.class
